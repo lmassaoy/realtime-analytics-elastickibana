@@ -91,7 +91,5 @@ Now just look for the Dashboard name as "Matches" in the Kibana panel (in the le
 This is your prize :) enjoy, explore, go beyond!
 
 [![Screen-Shot-2020-09-08-at-02-27-31.png](https://i.postimg.cc/XY2SBYbc/Screen-Shot-2020-09-08-at-02-27-31.png)](https://postimg.cc/18NYLP4f)
-
 [![Screen-Shot-2020-09-08-at-02-27-49.png](https://i.postimg.cc/0N3TZXrz/Screen-Shot-2020-09-08-at-02-27-49.png)](https://postimg.cc/wtX4jVXz)
-
 [![Screen-Shot-2020-09-08-at-02-28-06.png](https://i.postimg.cc/Xq6T6Zf3/Screen-Shot-2020-09-08-at-02-28-06.png)](https://postimg.cc/S2VZWx1t)
