@@ -1,4 +1,4 @@
-# [![kibana-dashboard-title.png](https://i.postimg.cc/Y0GPkdJJ/kibana-dashboard-title.png)](https://postimg.cc/zHN7FFDj)
+# [![dashboard-dark-title.png](https://i.postimg.cc/05VcRWpj/dashboard-dark-title.png)](https://postimg.cc/NLr1RxCv)
 This project brings multiple components to build and run a fast-data application, messaging broker, streaming service, indexed DB, and real-time analytics dashboard
 
 You gonna need to build the image of the event-producer. To handle this, go to application's [repository](https://github.com/lmassaoy/valorant-matches-event-producer) and follow the steps to do it (JVM mode).
